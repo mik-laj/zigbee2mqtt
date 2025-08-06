@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.6.1](https://github.com/Koenkk/zigbee2mqtt/compare/2.6.0...2.6.1) (2025-08-06)
+
+
+### Bug Fixes
+
+* **ignore:** bump the minor-patch group with 4 updates ([#28147](https://github.com/Koenkk/zigbee2mqtt/issues/28147)) ([b72abd6](https://github.com/Koenkk/zigbee2mqtt/commit/b72abd675f409fca324b34936c1bfb6f3d8aefd4))
+* **ignore:** update zigbee-herdsman-converters to 24.12.0 ([#28170](https://github.com/Koenkk/zigbee2mqtt/issues/28170)) ([9836f0e](https://github.com/Koenkk/zigbee2mqtt/commit/9836f0e27a57863bdbd98f9770ea37036ccf243c))
+* **ignore:** update zigbee-herdsman-converters to 24.13.0 ([#28175](https://github.com/Koenkk/zigbee2mqtt/issues/28175)) ([2056b89](https://github.com/Koenkk/zigbee2mqtt/commit/2056b89baca9018254e23b02fbf0a5250314159b))
+* Remove 60 MB (28%) of dev dependencies from Docker image ([#28160](https://github.com/Koenkk/zigbee2mqtt/issues/28160)) ([050ebfc](https://github.com/Koenkk/zigbee2mqtt/commit/050ebfc9f5dd5a2de07f5402d3c99ac8ab3b12b4))
+
 ## [2.6.0](https://github.com/Koenkk/zigbee2mqtt/compare/2.5.1...2.6.0) (2025-08-01)
 
 
